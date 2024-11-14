@@ -1,4 +1,7 @@
 # Auto-correcting-the-power-of-Spectacles-using-Machine-Learning
+
+This README.md will give users a comprehensive understanding of how to use, contribute to, and run the project.
+
 # Auto-Adjustment of Spectacles Power
 
 This project demonstrates the use of machine learning to automatically adjust the power of spectacles based on real-time sensor data. The system predicts the ideal focal length based on a clarity score, allowing for real-time adjustment of spectacles for optimal vision.
@@ -65,8 +68,6 @@ cd auto-adjustment-spectacles
 
 - **Replace `your-username`** in the `git clone` link with your actual GitHub username.
 - **Add more details**: If your project has more features, datasets, or requirements, feel free to add additional sections.
-
-This README.md will give users a comprehensive understanding of how to use, contribute to, and run the project.
 
 Local URL: http://localhost:8501
 Network URL: http://20.20.27.7:8501
