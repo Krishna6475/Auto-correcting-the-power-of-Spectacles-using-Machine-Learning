@@ -32,6 +32,10 @@ The application is built using **Streamlit** for the user interface and **joblib
 - `README.md`: Project documentation (this file).
 - `requirements.txt`: Python dependencies for the project.
 
+## URL
+- Local URL: http://localhost:8501
+- Network URL: http://20.20.27.7:8501
+
 ## Installation
 
 To get started with this project, follow the steps below:
@@ -68,6 +72,3 @@ cd auto-adjustment-spectacles
 
 - **Replace `your-username`** in the `git clone` link with your actual GitHub username.
 - **Add more details**: If your project has more features, datasets, or requirements, feel free to add additional sections.
-
-Local URL: http://localhost:8501
-Network URL: http://20.20.27.7:8501
